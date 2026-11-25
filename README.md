@@ -16,7 +16,7 @@
 
 ## Featured Projects
 - **CSE103 Lab 3** — Git workflows, API interaction and Markdown documentation.
-  - Repository: https://github.com/Lakshayyadav90/cse103-lab-LAB3
+  - Repository: https://github.com/tanwardiksha868-bit/cse-lab-token.git
 
 ## Currently Working On
 - Semester 1 programming and technical labs.
